@@ -14,11 +14,25 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../index.html</link>
 	<description>Lựa chọn tốt nhất cho bạn</description>
-	<lastBuildDate>Sat, 26 Jun 2021 07:41:00 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 26 Jun 2021 09:53:44 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.7.2</generator>
-</channel>
+	<item>
+		<title>
+		Bởi: Đặng Nhất Thống		</title>
+		<link>./../index.html#comment-25</link>
+
+		<dc:creator><![CDATA[Đặng Nhất Thống]]></dc:creator>
+		<pubDate>Sat, 26 Jun 2021 09:53:44 +0000</pubDate>
+		<guid isPermaLink="false">./../../../index.html?post_type=product&#038;p=449#comment-25</guid>
+
+					<description><![CDATA[Rất đáng tiền]]></description>
+			<content:encoded><![CDATA[<p>Rất đáng tiền</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
 </rss>
